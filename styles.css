@@ -1,0 +1,84 @@
+body{
+    background-color: skyblue;
+}
+.top-cloud{
+    margin-left: 60%;
+    margin-top: 20px;
+    height: 100px;
+}
+.title{
+    display: block;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 2rem;
+}
+h1 {
+    font-family: 'Sacramento', cursive;
+}    
+.bottom-cloud {
+    margin-left: 20%;
+    margin-top: 50px;
+    height: 100px;
+}
+.pro{
+    color: chartreuse;
+}
+.mountain{
+    display: block;
+    margin-left: 30%;
+    text-align: center;
+}
+div.mid-box{
+    background-color:antiquewhite;
+    text-align: center;
+    padding:100px;
+    margin: 100px;
+}
+.pic{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+}
+h2{
+    font-family: 'Sacramento', cursive;
+    font-size: 4rem;  
+}
+p{
+    text-align: center;
+    font-size: 2rem;
+}
+div.skills{
+    display: inline-block;
+}
+img.sk{
+    float: left;
+    width: 100px;
+    height: 100px;
+}
+.cont{
+    margin: 20px;
+    background-color:#11999e;
+    color: black;
+    font-size: 1.5rem;
+    border-radius: 8px;
+    padding: 20px;
+    text-align: center;
+    background-image: none;
+}
+.contact{
+    margin: 50px;
+}
+.bottom-box{
+    margin: 50px;
+    
+}
+.footer{
+    text-align: center;
+    margin: 20px;
+    font-size: 2rem;
+    background-image: none;
+    background-color: blue;
+    color: white;
+    margin-left: 48%;
+}
+
